@@ -1,4 +1,44 @@
 # java-se-17-developer
+# Table of Contents
+
+- [Compile a Java Program](#compile-a-java-program)
+- [Execute a Java Program](#execute-a-java-program)
+- [Java Memory Allocation](#java-memory-allocation)
+- [Arithmetic Operations](#arithmetic-operations)
+- [Binary Number Representation](#binary-number-representation)
+- [Flow Control](#flow-control)
+  - [If/Else](#ifelse)
+  - [Switch Case](#switch-case)
+- [JShell](#jshell)
+- [String Class](#string-class)
+- [Text Block](#text-block)
+- [Wrapper Classes for Primitives](#wrapper-classes-for-primitives)
+- [Local Date and Time](#local-date-and-time)
+  - [Format and Parse Date and Time](#format-and-parse-date-and-time)
+  - [Represent Language and Countries](#represent-language-and-countries)
+- [Classes and Objects](#classes-and-objects)
+  - [UML](#uml)
+- [Varargs](#varargs)
+- [Reuse Constructors](#reuse-constructors)
+- [Access Modifiers](#access-modifiers)
+- [Enumerations](#enumerations)
+- [Interfaces](#interfaces)
+- [Inheritance Rules of Default Methods](#inheritance-rules-of-default-methods)
+- [Generics](#generics)
+- [Collections](#collections)
+  - [Lists](#lists)
+  - [Set](#set)
+  - [Deque](#deque)
+  - [HashMap](#hashmap)
+  - [Other Collection Behavior](#other-collection-behavior)
+- [Nested Classes](#nested-classes)
+  - [Static](#static)
+  - [Member](#member)
+  - [Local](#local)
+  - [Anonymous](#anonymous)
+- [Lambda Expression](#lambda-expression)
+
+
 ## Compile a java program
 ![image](https://github.com/user-attachments/assets/d2817cf1-ecd7-49ec-990f-101b5efd9ace)
 
@@ -46,6 +86,7 @@
 ![image](https://github.com/user-attachments/assets/d4ff01c0-5ad6-498f-898c-e0d69be4213a)
 ![image](https://github.com/user-attachments/assets/f02c1405-e09d-4fa0-a796-18882f2aad32)
 ![image](https://github.com/user-attachments/assets/5aa371eb-f151-4857-89a3-a685e7188f77)
+
 ###   Format and parse date and time
   ![image](https://github.com/user-attachments/assets/3c195340-6b80-4c32-9c83-dcd149d08934)
   
@@ -88,4 +129,56 @@
 ![image](https://github.com/user-attachments/assets/31081927-c6d3-41e3-8235-bfbe2596f137)
 
 ## Generics
+![image](https://github.com/user-attachments/assets/2459ec78-297f-4100-9185-e58c7f0e7917)
+![image](https://github.com/user-attachments/assets/f891ca4b-262f-4c0c-a906-adc41a4bcc19)
+
+## Collections
+![image](https://github.com/user-attachments/assets/bfac0b8c-20f2-4f3e-8470-599878c5265a)
+
+### Lists
+![image](https://github.com/user-attachments/assets/94420448-447b-42bd-a5ae-755e3050647b)
+![image](https://github.com/user-attachments/assets/6f5be9a5-c887-48ea-9e42-630aa8afccaa)
+
+### Set
+![image](https://github.com/user-attachments/assets/adea4641-df48-47dd-85ec-b25078314864)
+![image](https://github.com/user-attachments/assets/3462b41e-62bc-4b74-8199-59722455e94c)
+
+### Deque
+![image](https://github.com/user-attachments/assets/4ff1c8aa-b810-42db-ad78-9ed5c051d668)
+![image](https://github.com/user-attachments/assets/7b8494c1-9542-4bf3-9788-6a9c3dc39b9c)
+
+### HashMap
+![image](https://github.com/user-attachments/assets/b229d293-11bc-4c16-9d99-764af630c4f1)
+![image](https://github.com/user-attachments/assets/e5c984ab-353a-4696-a573-2398fd79db3f)
+
+### Other Collection Behavior
+![image](https://github.com/user-attachments/assets/0956cfc4-5379-4fef-b257-e9f5defdd059)
+![image](https://github.com/user-attachments/assets/95969ef3-6ba0-474b-bcc6-2a29f2132717)
+![image](https://github.com/user-attachments/assets/85aa8b70-9212-4093-8a97-6e2f80535028)
+![image](https://github.com/user-attachments/assets/25cdf2cd-d553-4fc9-b8bb-66ea88551224)
+
+## Nested Classes
+![image](https://github.com/user-attachments/assets/5d14ff77-d588-47ca-aeb4-3f52a1d735b5)
+### static
+![image](https://github.com/user-attachments/assets/c0d726b6-3b2d-413b-8152-ed86c00b9b34)
+### Member
+![image](https://github.com/user-attachments/assets/d11d8ca4-9b40-4472-85a2-ad9e8513e774)
+### Local
+![image](https://github.com/user-attachments/assets/1c522b27-667c-4225-afc9-c9b23c17035c)
+### Anonymous
+![image](https://github.com/user-attachments/assets/261db5a7-e3fd-4f5d-a61e-6354daad8503)
+![image](https://github.com/user-attachments/assets/9affc459-ecbc-41e4-b4de-22d3a08ef988)
+
+## Lambda Expression
+![image](https://github.com/user-attachments/assets/181f2051-47e5-4298-8187-6ec611357e91)
+![image](https://github.com/user-attachments/assets/b0c130e6-9649-44e1-bc0a-042d022c571d)
+![image](https://github.com/user-attachments/assets/c28b66bb-3599-4b97-9dbf-436d77eec0b9)
+![image](https://github.com/user-attachments/assets/402d40da-d07c-4b93-97ad-9c0135fc04b0)
+![image](https://github.com/user-attachments/assets/7a8ae009-269c-4a12-8847-b4cdc4d4c0ff)
+![image](https://github.com/user-attachments/assets/3350a351-559f-4380-ba83-133b515a3a36)
+
+
+
+
+
 
