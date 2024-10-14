@@ -38,6 +38,7 @@
   - [Anonymous](#anonymous)
 - [Lambda Expression](#lambda-expression)
 - [Streams](#streams)
+- [Annotation](#annotation)
 
 ## Compile a java program
 ![image](https://github.com/user-attachments/assets/d2817cf1-ecd7-49ec-990f-101b5efd9ace)
@@ -131,6 +132,9 @@
 ## Generics
 ![image](https://github.com/user-attachments/assets/2459ec78-297f-4100-9185-e58c7f0e7917)
 ![image](https://github.com/user-attachments/assets/f891ca4b-262f-4c0c-a906-adc41a4bcc19)
+![image](https://github.com/user-attachments/assets/e89758bb-fe75-46c1-a58b-b11ae6dc148f)
+![image](https://github.com/user-attachments/assets/47091387-c304-4192-b6f1-6be185b34c37)
+![image](https://github.com/user-attachments/assets/8d7b4ed2-b442-44aa-a965-2ef598e4f124)
 
 ## Collections
 ![image](https://github.com/user-attachments/assets/bfac0b8c-20f2-4f3e-8470-599878c5265a)
@@ -181,6 +185,15 @@
 ![image](https://github.com/user-attachments/assets/25785858-1f37-467e-ad98-f59a0a1c6e56)
 ![image](https://github.com/user-attachments/assets/940de4fd-2421-42dc-a05b-5fee0497b0b3)
 ![image](https://github.com/user-attachments/assets/4bb19cd5-5520-4722-90b8-de924576c323)
+
+
+## Annotation
+![image](https://github.com/user-attachments/assets/c5ef133a-6e17-4141-a6c3-4b06beb9377b)
+![image](https://github.com/user-attachments/assets/743e3139-6527-4ceb-b201-fca581c1b864)
+![image](https://github.com/user-attachments/assets/0410b5cc-a2a4-41cc-97a9-271079117ee3)
+![image](https://github.com/user-attachments/assets/fa09aa74-1afa-4c84-aa53-b1a94cb598da)
+![image](https://github.com/user-attachments/assets/2bb3c86c-fa4f-43bd-bb04-0259e8eb1c31)
+
 
 
 
