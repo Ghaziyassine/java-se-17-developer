@@ -37,7 +37,7 @@
   - [Local](#local)
   - [Anonymous](#anonymous)
 - [Lambda Expression](#lambda-expression)
-
+- [Streams](#streams)
 
 ## Compile a java program
 ![image](https://github.com/user-attachments/assets/d2817cf1-ecd7-49ec-990f-101b5efd9ace)
@@ -177,7 +177,10 @@
 ![image](https://github.com/user-attachments/assets/7a8ae009-269c-4a12-8847-b4cdc4d4c0ff)
 ![image](https://github.com/user-attachments/assets/3350a351-559f-4380-ba83-133b515a3a36)
 
-
+## Streams
+![image](https://github.com/user-attachments/assets/25785858-1f37-467e-ad98-f59a0a1c6e56)
+![image](https://github.com/user-attachments/assets/940de4fd-2421-42dc-a05b-5fee0497b0b3)
+![image](https://github.com/user-attachments/assets/4bb19cd5-5520-4722-90b8-de924576c323)
 
 
 
