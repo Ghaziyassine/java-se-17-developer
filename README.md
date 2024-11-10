@@ -186,6 +186,7 @@
 ![image](https://github.com/user-attachments/assets/25785858-1f37-467e-ad98-f59a0a1c6e56)
 ![image](https://github.com/user-attachments/assets/940de4fd-2421-42dc-a05b-5fee0497b0b3)
 ![image](https://github.com/user-attachments/assets/4bb19cd5-5520-4722-90b8-de924576c323)
+![image](https://github.com/user-attachments/assets/bce51c2c-ef4d-4056-9295-97f57e3db153)
 
 
 ## Annotation
